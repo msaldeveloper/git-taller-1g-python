@@ -3,6 +3,10 @@ hola a todos :D
 
 commit uno
 
+<<<<<<< HEAD
 branch-one
 
 
+=======
+añadiendo lineas
+>>>>>>> branch-two
